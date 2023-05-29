@@ -1,0 +1,67 @@
+h2 {
+    background-color: silver;
+    width: 16vw;
+}
+h3 {
+    background-color: silver;
+    width: 13vw;
+}
+.mePicture {
+    height: 25vh;
+    width: 15vw;
+}
+.aboutMe1 {
+    background-color: blue;
+    color: aqua;
+    width: 13vw;
+}
+.aboutMe2 {
+    background-color: blue;
+    color: aqua;
+    width: 8vw;
+}
+.aboutMe3 {
+    background-color: blue;
+    color: aqua;
+    width: 18vw;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+.name {
+    font-style: italic;
+    border:2px solid DodgerBlue;
+    width: 13vw;
+}
+.phone {
+    font-style: italic;
+    border:2px solid DodgerBlue;
+    width: 7vw;
+}
+.containter {
+    display: grid;
+    grid-gap: 15px 20px;
+    grid-template-columns: 500px 500px;
+    margin: 2rem auto;
+    width: 1000px;
+}
+.grid-item {
+    background-color: beige;
+    border-radius: 7px;
+    color: black;
+    font: 700 15px 'Open Sans';
+    padding: 11px;
+}
+Link :hover {
+    color: blue;
+}
+.external--links :hover {
+    color: blue;
+}
+footer {
+    background-color: black;
+    color: white;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 29vw;
+}
