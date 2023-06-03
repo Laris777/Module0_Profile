@@ -52,9 +52,6 @@ p {
     font: 700 15px 'Open Sans';
     padding: 11px;
 }
-Link :hover {
-    color: blue;
-}
 .external--links :hover {
     color: blue;
 }
